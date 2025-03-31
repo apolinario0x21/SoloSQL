@@ -40,5 +40,5 @@ Este projeto é um banco de dados fictício criado para fins educacionais, inspi
    ```
 
 ## 📊 Exemplos de Consultas
-Veja [CONSULTAS.md](https://github.com/apolinario0x21/SoloSQL/blob/main/consultas.md) para exemplos práticos de consultas SQL.
+Veja [CONSULTAS.md](https://github.com/apolinario0x21/SoloSQL/blob/main/CONSULTAS.md) para exemplos práticos de consultas SQL.
 
