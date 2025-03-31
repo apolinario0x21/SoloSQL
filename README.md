@@ -8,7 +8,7 @@ Este projeto é um banco de dados fictício criado para fins educacionais, inspi
 ## 🗃️ Estrutura do Banco de Dados
 
 ### Diagrama ER
-[arquivo pdf](www.google.com) *(EER)*
+[arquivo pdf](https://github.com/apolinario0x21/SoloSQL/blob/main/soloSQL.pdf)
 
 ### Principais Tabelas
 
@@ -40,5 +40,5 @@ Este projeto é um banco de dados fictício criado para fins educacionais, inspi
    ```
 
 ## 📊 Exemplos de Consultas
-Veja [CONSULTAS.md](https://www.google.com) para exemplos práticos de consultas SQL.
+Veja [CONSULTAS.md](https://github.com/apolinario0x21/SoloSQL/blob/main/consultas.md) para exemplos práticos de consultas SQL.
 
